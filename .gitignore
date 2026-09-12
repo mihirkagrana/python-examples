@@ -33,6 +33,8 @@ venv/
 ENV/
 env/
 virtual-env/
+lang-venv/
+mcp-venv/
 .venv
 
 # IDE
