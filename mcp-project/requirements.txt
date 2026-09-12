@@ -1,0 +1,7 @@
+fastmcp
+langchain 
+langchain-openai
+openai
+langchain-google-genai
+langchain-mcp-adapters
+python-dotenv
