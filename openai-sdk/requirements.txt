@@ -1,0 +1,7 @@
+ollama 
+ipykernel 
+langchain 
+langchain-ollama
+openai-agents
+python-dotenv
+python-a2a
